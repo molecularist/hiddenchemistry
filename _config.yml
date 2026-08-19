@@ -1,4 +1,10 @@
 # The Site Configuration
+title: Hidden Chemistry
+tagline: The chemistry hidden in everyday life
+description: >-
+  Exploring the chemistry behind everyday life.
+url: "https://molecularist.github.io"
+baseurl: "/hiddenchemistry"
 
 # Import the theme
 theme: jekyll-theme-chirpy
